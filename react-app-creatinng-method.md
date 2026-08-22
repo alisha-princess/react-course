@@ -17,3 +17,4 @@ hydration : Jab pehli baar page load hota hai, buttons aur images dikhte hain (H
 7. The algo react uses to differentiate the web browser's tree and React's tree formed through create root is called reconciliation.
 8. Reconciliation is the algo behind what popularly known as the Virtual-DOM.
 9.In UI it is not necessary for every update to be applied immediately. 
+// tailwind css installation
